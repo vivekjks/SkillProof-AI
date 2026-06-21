@@ -334,5 +334,4 @@ Vercel settings:
 - Framework: Next.js
 - Build command: `corepack pnpm build`
 - Environment variables: copy required values from `.env.local`
-
-Render is not required for the current version because there is no separate backend service.
+ 
