@@ -1,0 +1,8 @@
+.env
+.env*.local
+.next
+node_modules
+qa-screenshots
+*.log
+*.err.log
+tsconfig.tsbuildinfo
